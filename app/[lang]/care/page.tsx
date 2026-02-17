@@ -1,5 +1,9 @@
 import { getDictionary } from "@/get-dictionary";
-import { Locale } from "@/i18n-config";
+import { Locale, i18n } from "@/i18n-config";
+
+export async function generateStaticParams() {
+    return i18n.locales.map((locale) => ({ lang: locale }));
+}
 
 export default async function Care({ params }: { params: Promise<{ lang: string }> }) {
     const { lang } = await params;

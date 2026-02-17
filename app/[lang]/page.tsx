@@ -1,7 +1,11 @@
 import Link from "next/link";
 import Image from "next/image";
 import { getDictionary } from "@/get-dictionary";
-import { Locale } from "@/i18n-config";
+import { i18n, Locale } from "@/i18n-config";
+
+export async function generateStaticParams() {
+  return i18n.locales.map((locale) => ({ lang: locale }));
+}
 
 export default async function Home({ params }: { params: Promise<{ lang: string }> }) {
   const { lang } = await params;

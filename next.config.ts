@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  output: "export",
+  basePath: "/dog-site",
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
