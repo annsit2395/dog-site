@@ -1,0 +1,68 @@
+{
+    "nav": {
+        "home": "Strona Główna",
+        "breeds": "Rasy",
+        "care": "Opieka",
+        "language": "Język"
+    },
+    "footer": {
+        "rights": "Wszelkie prawa zastrzeżone.",
+        "createdBy": "Stworzone przez Annę"
+    },
+    "home": {
+        "title": "Witajcie Miłośnicy Psów 🐶",
+        "subtitle": "Twój ostateczny przewodnik po świecie psów. Poznaj rasy, dowiedz się o opiece i świętuj z naszymi futrzastymi przyjaciółmi.",
+        "breedsTitle": "Poznaj Rasy",
+        "breedsDesc": "Odkryj 5 popularnych ras psów i znajdź swojego idealnego towarzysza.",
+        "careTitle": "Porady Opiekuńcze",
+        "careDesc": "Dowiedz się, jak najlepiej dbać o swojego futrzastego przyjaciela."
+    },
+    "breeds": {
+        "title": "POPULARNE RASY PSÓW",
+        "subtitle": "Poznaj jedne z najbardziej lubianych ras psów na świecie.",
+        "goldenRetriever": {
+            "name": "Golden Retriever",
+            "desc": "Przyjacielski, inteligentny i oddany. Golden Retrievery to popularne psy rodzinne znane ze swojej łagodnej natury."
+        },
+        "germanShepherd": {
+            "name": "Owczarek Niemiecki",
+            "desc": "Pewny siebie, odważny i mądry. Owczarki niemieckie to wszechstronne psy pracujące i lojalni stróże."
+        },
+        "labrador": {
+            "name": "Labrador Retriever",
+            "desc": "Towarzyski, zrównoważony i łagodny. Labradory są przyjacielskimi towarzyszami i świetnie sprawdzają się w rodzinach."
+        },
+        "bulldog": {
+            "name": "Bulldog",
+            "desc": "Spokojny, odważny i przyjacielski. Bulldogi są znane ze swojego charakterystycznego wyglądu i luźnej skóry."
+        },
+        "beagle": {
+            "name": "Beagle",
+            "desc": "Ciekawski, przyjacielski i wesoły. Beagle to psy gończe o doskonałym węchu i instynkcie tropiącym."
+        }
+    },
+    "care": {
+        "title": "Przewodnik Opieki",
+        "subtitle": "Niezbędne wskazówki, aby Twój futrzasty przyjaciel był zdrowy, szczęśliwy i pełen życia.",
+        "nutrition": {
+            "title": "Żywienie",
+            "desc": "Zapewnij zbilansowaną dietę dostosowaną do wieku, wielkości i poziomu aktywności psa. Zawsze dbaj o dostęp do świeżej wody."
+        },
+        "exercise": {
+            "title": "Regularny Ruch",
+            "desc": "Psy potrzebują codziennej aktywności fizycznej, aby pozostać zdrowe i szczęśliwe. Spacery, aportowanie czy bieganie to świetne opcje."
+        },
+        "grooming": {
+            "title": "Pielęgnacja",
+            "desc": "Regularne czesanie, kąpiele i przycinanie pazurów sprawiają, że Twój pies wygląda dobrze i czuje się komfortowo."
+        },
+        "checkups": {
+            "title": "Wizyty u Weterynarza",
+            "desc": "Regularnie odwiedzaj weterynarza w celu szczepień i badań. Wczesne wykrywanie problemów jest kluczem do długiego życia."
+        },
+        "love": {
+            "title": "Miłość i Cierpliwość",
+            "desc": "Przede wszystkim psy potrzebują miłości, uwagi i cierpliwości. Budowanie silnej więzi z psem to najbardziej satysfakcjonująca część bycia opiekunem."
+        }
+    }
+}

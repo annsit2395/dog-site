@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "home": "Home",
+    "breeds": "Breeds",
+    "care": "Care",
+    "language": "Language"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "createdBy": "Created by Anna"
+  },
+  "home": {
+    "title": "Welcome to Dog Lovers 🐶",
+    "subtitle": "Your ultimate guide to everything about dogs. Discover breeds, learn care tips, and celebrate our furry friends.",
+    "breedsTitle": "Explore Breeds",
+    "breedsDesc": "Discover 5 popular dog breeds and find your perfect match.",
+    "careTitle": "Care Tips",
+    "careDesc": "Learn how to take the best care of your furry companion."
+  },
+  "breeds": {
+    "title": "Popular Dog Breeds",
+    "subtitle": "Explore some of the most beloved dog breeds around the world.",
+    "goldenRetriever": {
+      "name": "Golden Retriever",
+      "desc": "Friendly, intelligent, and devoted. Golden Retrievers are popular family dogs known for their gentle nature."
+    },
+    "germanShepherd": {
+      "name": "German Shepherd",
+      "desc": "Confident, courageous, and smart. German Shepherds are versatile working dogs and loyal guardians."
+    },
+    "labrador": {
+      "name": "Labrador Retriever",
+      "desc": "Outgoing, even-tempered, and gentle. Labs are friendly companions and great with families."
+    },
+    "bulldog": {
+      "name": "Bulldog",
+      "desc": "Calm, courageous, and friendly. Bulldogs are known for their distinct appearance and loose skin."
+    },
+    "beagle": {
+      "name": "Beagle",
+      "desc": "Curious, friendly, and merry. Beagles are scent hounds with a great sense of smell and tracking instinct."
+    }
+  },
+  "care": {
+    "title": "Dog Care Guide",
+    "subtitle": "Essential tips to keep your furry friend healthy, happy, and thriving.",
+    "nutrition": {
+      "title": "Nutrition & Feeding",
+      "desc": "Provide a balanced diet suitable for your dog's age, size, and activity level. Always ensure fresh water is available."
+    },
+    "exercise": {
+      "title": "Regular Exercise",
+      "desc": "Dogs need daily physical activity to stay healthy and happy. Walking, playing fetch, or running are great options."
+    },
+    "grooming": {
+      "title": "Grooming",
+      "desc": "Regular brushing, bathing, and nail trimming keep your dog looking good and feeling comfortable."
+    },
+    "checkups": {
+      "title": "Health Checkups",
+      "desc": "Visit the vet regularly for vaccinations and checkups. Early detection of issues is key to a long life."
+    },
+    "love": {
+      "title": "Love & Patience",
+      "desc": "Above all, dogs need love, attention, and patience. Building a strong bond with your dog is the most rewarding part of being a pet parent."
+    }
+  }
+}
